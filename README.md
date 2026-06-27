@@ -50,10 +50,22 @@
 ---
 
 ### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mubashir-a3bb04203/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmubashir096@gmail.com)
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-mubashir-a3bb04203/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mohammadmubashir096@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/Mohamma33320262">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
 
 <div align="center">
 
