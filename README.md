@@ -35,10 +35,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight)
+### 📊 Customer Churn Prediction
+Machine Learning model using Python, Pandas and Scikit-Learn.
 
+### 😊 NLP Sentiment Analysis
+Text sentiment classification using NLP techniques.
+
+### 📈 SQL Data Analysis
+Business intelligence and reporting queries.
 
 ## 📊 GitHub Stats
 
