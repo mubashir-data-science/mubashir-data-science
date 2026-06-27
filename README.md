@@ -35,9 +35,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mubashir-data-science&theme=algolia&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight)
+
 
 ### 📊 GitHub Stats
 
