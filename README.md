@@ -61,3 +61,25 @@
 *"In God we trust. All others must bring data."* — W. Edwards Deming
 
 </div>
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mubashir-data-science/mubashir-data-science/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 💬 Random Dev Quote
+
+### 💬 My Motto
+
+> *"Data is the new oil — and I'm here to refine it."*
+> 
+> *"Every dataset tells a story. My job is to listen."*
+> 
+> — Muhammad Mubashir 🇵🇰
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mubashir-a3bb04203/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmubashir096@gmail.com)
