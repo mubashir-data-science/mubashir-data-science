@@ -83,9 +83,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🌐 Socials
-
-### 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mubashir-a3bb04203/)
 [![X](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mohamma33320262)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmubashir096@gmail.com)
