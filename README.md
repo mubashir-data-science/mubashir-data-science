@@ -70,14 +70,7 @@
 
 ### 💬 Random Dev Quote
 
-### 💬 My Motto
-
-> *"Data is the new oil — and I'm here to refine it."*
-> 
-> *"Every dataset tells a story. My job is to listen."*
-> 
-> — Muhammad Mubashir 🇵🇰
----
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🌐 Socials
 
