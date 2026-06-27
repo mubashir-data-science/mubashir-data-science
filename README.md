@@ -5,8 +5,6 @@
 
 ### 🎓 Data Scientist | 🤖 ML Engineer | 📊 Data Analyst
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat)](https://github.com/YOUR_USERNAME)
-
 </div>
 
 ---
@@ -16,7 +14,7 @@
 - 🎓 I have done **Data Science**
 - 🌱 Currently learning **Deep Learning & MLOps**
 - 💬 Ask me about **Python, Machine Learning, Data Analysis**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: mohammadmubashir096@gmail.com
 - 🇵🇰 Based in **Pakistan**
 
 ---
