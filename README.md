@@ -1,10 +1,6 @@
-<!-- Header -->
-<div align="center">
-
-# Hi 👋, I'm Muhammad Mubashir
-
-### 🎓 Data Scientist | 🤖 ML Engineer | 📊 Data Analyst
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mubashir-data-science/mubashir-data-science/main/banner.png" width="100%">
+</p>
 </div>
 
 ---
