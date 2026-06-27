@@ -73,9 +73,11 @@
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mubashir-a3bb04203/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmubashir096@gmail.com)
+### 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mubashir-a3bb04203/)
+[![X](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mohamma33320262)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadmubashir096@gmail.com)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mubashir-data-science/mubashir-data-science/main/banner.png" width="100%"/>
