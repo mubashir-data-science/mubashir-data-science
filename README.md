@@ -40,18 +40,22 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight)
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-data-science&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir-data-science&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mubashir-data-science&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-data-science&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashir-data-science&theme=react-dark" />
+</p>
+
 
 ## 🌐 Connect With Me
 
