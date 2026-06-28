@@ -14,12 +14,12 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 I have done **Data Science**
-- 🌱 Currently learning **Deep Learning & MLOps**
-- 💬 Ask me about **Python, Machine Learning, Data Analysis**
-- 📫 Reach me at: mohammadmubashir096@gmail.com
-- 🇵🇰 Based in **Pakistan**
-
+- 🎓 Data Science Graduate
+- 🤖 Passionate about Machine Learning, Deep Learning & AI
+- 🌱 Currently learning MLOps, LLMs & Cloud Deployment
+- 💬 Ask me about Python, SQL, Machine Learning & Data Analytics
+- 📫 Email: **mohammadmubashir096@gmail.com**
+- 🇵🇰 Pakistan
 ---
 
 ## 🛠️ Tech Stack
