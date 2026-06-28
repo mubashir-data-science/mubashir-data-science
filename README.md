@@ -91,6 +91,7 @@ Hybrid recommendation system using Content-Based and Collaborative Filtering tec
 </td>
 
 </tr>
+<table>
 
 ## 📊 GitHub Stats
 
