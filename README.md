@@ -260,12 +260,6 @@ Collection of Data Science notebooks and modules.
 </p>
 
 
-<div align="center">
-
-*"In God we trust. All others must bring data."* — W. Edwards Deming
-
-</div>
-
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/mubashir-data-science/mubashir-data-science/blob/output/github-contribution-grid-snake-dark.svg)
