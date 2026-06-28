@@ -32,6 +32,194 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🩺 Disease Prediction
+Machine Learning model for predicting diabetes using Logistic Regression, Random Forest & SVM.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Pandas` `NumPy` `Streamlit`
+
+🔗 https://github.com/mubashir-data-science/disease-prediction
+
+</td>
+
+<td width="50%">
+
+### 🎬 Movie Recommendation System
+Hybrid recommendation system using Content-Based + Collaborative Filtering.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-Learn` `Streamlit`
+
+🔗 https://github.com/mubashir-data-science/movie-recommendation-system
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏠 House Price Prediction
+Regression model using XGBoost, Random Forest & LightGBM.
+
+**Tech Stack**
+
+`Python` `XGBoost` `LightGBM` `Pandas`
+
+🔗 https://github.com/mubashir-data-science/house-price-prediction
+
+</td>
+
+<td width="50%">
+
+### 😊 Twitter Sentiment Analysis
+NLP model for sentiment classification using TF-IDF & Logistic Regression.
+
+**Tech Stack**
+
+`Python` `NLTK` `Scikit-Learn` `Streamlit`
+
+🔗 https://github.com/mubashir-data-science/twitter-sentiment-analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Stock Price Prediction
+Forecast stock prices using Machine Learning.
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib`
+
+🔗 https://github.com/mubashir-data-science/stock-price-prediction
+
+</td>
+
+<td width="50%">
+
+### 📄 Chat with PDF
+AI application using LLM to chat with PDF documents.
+
+**Tech Stack**
+
+`Python` `LangChain` `OpenAI` `Streamlit`
+
+🔗 https://github.com/mubashir-data-science/chat-with-pdf
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 SQL HR Analytics
+Advanced SQL queries for HR Analytics Dashboard.
+
+**Tech Stack**
+
+`SQL` `PostgreSQL`
+
+🔗 https://github.com/mubashir-data-science/sql-hr-analytics
+
+</td>
+
+<td width="50%">
+
+### 💰 SQL Sales Analysis
+SQL project for sales trends & customer analysis.
+
+**Tech Stack**
+
+`SQL` `PostgreSQL`
+
+🔗 https://github.com/mubashir-data-science/sql-sales-analysis
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📉 R Data Visualization
+EDA & Data Visualization using R.
+
+**Tech Stack**
+
+`R` `ggplot2` `dplyr`
+
+🔗 https://github.com/mubashir-data-science/r-eda-visualization
+
+</td>
+
+<td width="50%">
+
+### 📊 R Classification
+Machine Learning Classification in R.
+
+**Tech Stack**
+
+`R` `Caret` `Random Forest`
+
+🔗 https://github.com/mubashir-data-science/r-ml-classification
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ Spark Big Data Ecommerce
+Big Data analytics using Apache Spark.
+
+**Tech Stack**
+
+`Python` `Spark`
+
+🔗 https://github.com/mubashir-data-science/spark-bigdata-ecommerce
+
+</td>
+
+<td width="50%">
+
+### 📂 Data Science Portfolio
+Collection of Data Science notebooks and modules.
+
+**Tech Stack**
+
+`Python`
+
+🔗 https://github.com/mubashir-data-science/DataScience-Portfolio
+
+</td>
+
+</tr>
+
+</table>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
