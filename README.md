@@ -289,17 +289,18 @@ Collection of Data Science notebooks and modules.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir-data-science&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=mubashir-data-science&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-data-science&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-data-science&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashir-data-science&theme=react-dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=mubashir-data-science&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 
