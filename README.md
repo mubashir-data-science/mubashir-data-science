@@ -297,7 +297,6 @@ Collection of Data Science notebooks and modules.
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-data-science&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
-## 🏆 GitHub Trophies
 
 ## 📈 Contribution Graph
 
