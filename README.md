@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/github/followers/mubashir-data-science?label=Followers&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/stars/mubashir-data-science?affiliations=OWNER&style=for-the-badge&color=yellow"/>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;AI+%26+Deep+Learning+Enthusiast;Open+Source+Contributor"/>
+</p>
 ---
 
 ### 🙋‍♂️ About Me
