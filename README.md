@@ -38,14 +38,17 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
+```markdown
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%">
 
 ### 🌐 Data Science Portfolio
+
 A modern portfolio showcasing Data Science, Machine Learning, Deep Learning, NLP and AI projects.
 
 **Tech Stack**
@@ -59,6 +62,7 @@ A modern portfolio showcasing Data Science, Machine Learning, Deep Learning, NLP
 <td width="50%">
 
 ### ⚡ Spark Big Data Ecommerce
+
 Big Data analytics project using Apache Spark for processing ecommerce datasets and generating business insights.
 
 **Tech Stack**
@@ -73,9 +77,10 @@ Big Data analytics project using Apache Spark for processing ecommerce datasets 
 
 <tr>
 
-<td width="50%">
+<td colspan="2" align="center">
 
 ### 🎬 Movie Recommendation System
+
 Hybrid recommendation system using Content-Based and Collaborative Filtering techniques.
 
 **Tech Stack**
@@ -86,12 +91,11 @@ Hybrid recommendation system using Content-Based and Collaborative Filtering tec
 
 </td>
 
-<td width="50%">
-
-</td>
-
 </tr>
-<table>
+
+</table>
+```
+
 
 ## 📊 GitHub Stats
 
