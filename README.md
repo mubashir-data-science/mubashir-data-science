@@ -31,7 +31,7 @@ A passionate **Data Scientist** who loves exploring data, building machine learn
 - 🔥 Focused on building **real-world DS projects**
 - 🌱 Currently learning **Deep Learning & NLP**
 - 💬 Ask me about **Python, ML, Data Analysis**
-- 📫 Reach me: **mubashir.ds21@gmail.com**
+- 📫 Reach me: **mohammadmubashir096@gmail.com**
 - 🚀 Currently exploring **LLMs & Generative AI**
 - 🌍 Based in **Pakistan**
 
