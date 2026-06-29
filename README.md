@@ -99,5 +99,67 @@ I'm a passionate **Data Scientist** from Pakistan who enjoys solving real-world 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
 </p>
+## 📊 GitHub Stats
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-data-science&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir-data-science&theme=tokyonight&hide_border=true"/>
+</p>
+## 📈 Coding Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir-data-science&theme=tokyonight"/>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mubashir-data-science&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📄 Chat with PDF | LangChain + FAISS + HuggingFace + Streamlit |
+| 📈 Stock Price Prediction | LSTM + TensorFlow |
+| 🩺 Disease Prediction | Ensemble ML + SHAP |
+| 🎬 Movie Recommendation | Hybrid Recommendation |
+| 🏠 House Price Prediction | XGBoost |
+| 😊 Sentiment Analysis | NLP + TF-IDF |
+---
+
+<p align="center">
+
+<i>"Without data, you're just another person with an opinion."</i>
+
+<br>
+
+<b>— W. Edwards Deming</b>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mubashir-data-science&style=for-the-badge"/>
+
+</p>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mubashir-data-science/mubashir-data-science/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+<p align="center">
+
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+
+<a href="https://github.com/mubashir-data-science"><img src="https://skillicons.dev/icons?i=github"/></a>
+
+<a href="mailto:mohammadmubashir096@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</p>
 ---
