@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/muhammad-mubashir-a3bb04203">
+  <a href="https://www.linkedin.com/in/mohammad-mubashir-a3bb04203/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mubashir.ds21@gmail.com">
+  <a href="mailto:mohammadmubashir096@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/Mohamma33320262">
