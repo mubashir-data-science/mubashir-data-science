@@ -1,3 +1,4 @@
+cat > /mnt/user-data/outputs/README.md << 'READMEEOF'
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MUHAMMAD%20MUBASHIR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20ML%20ENGINEER%20%7C%20TURNING%20DATA%20INTO%20INSIGHTS&descAlignY=58&descSize=16" width="100%"/>
 </div>
@@ -22,7 +23,7 @@
 
 <br/>
 
-<img align="right" alt="Data Science GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👋 Hi there, I'm Muhammad Mubashir
 
@@ -219,14 +220,6 @@ A passionate **Data Scientist** who loves exploring data, building machine learn
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mubashir-data-science/mubashir-data-science/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mubashir-data-science&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
   <br/><br/>
@@ -234,12 +227,5 @@ A passionate **Data Scientist** who loves exploring data, building machine learn
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammadmubashir123&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <br/><br/>
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+READMEEOF
+echo "✅ Clean README ready!"
