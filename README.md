@@ -39,7 +39,6 @@ Data Scientist | Machine Learning Engineer | AI Enthusiast
 </a>
 
 </p>
-
 ---
 
 # 👨‍💻 About Me
@@ -77,7 +76,7 @@ I'm a passionate **Data Scientist** from Pakistan who enjoys solving real-world 
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
@@ -99,7 +98,9 @@ I'm a passionate **Data Scientist** from Pakistan who enjoys solving real-world 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
 </p>
-## 📊 GitHub Stats
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mubashir-data-science&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -112,9 +113,8 @@ I'm a passionate **Data Scientist** from Pakistan who enjoys solving real-world 
 </p>
 ## 📈 Coding Activity
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir-data-science&theme=tokyonight"/>
-</p>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir-data-science&theme=tokyonight"/>
 ## 🏆 GitHub Trophies
 
 <p align="center">
