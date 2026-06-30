@@ -56,7 +56,7 @@ A passionate **Data Scientist** who loves exploring data, building machine learn
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mubashir-data-science&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mubashir-data-science&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 <br/>
