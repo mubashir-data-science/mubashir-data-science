@@ -57,10 +57,12 @@ A passionate **Data Scientist** who loves exploring data, building machine learn
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mubashir-data-science&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://img.shields.io/badge/Data_Science-Projects-00d4ff?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-Practitioner-7c3aed?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Open_Source-Contributor-f97316?style=for-the-badge&logo=github&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Lifelong-Learner-10b981?style=for-the-badge&logo=bookstack&logoColor=white"/> <img src="https://img.shields.io/badge/Problem-Solver-ef4444?style=for-the-badge&logo=codeforces&logoColor=white"/> <img src="https://img.shields.io/badge/Multi--Language-Developer-ffd700?style=for-the-badge&logo=stackshare&logoColor=black"/>
 </p>
 
 <br/>
