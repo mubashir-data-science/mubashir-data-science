@@ -43,10 +43,6 @@ A passionate **Data Scientist** who loves exploring data, building machine learn
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir-data-science&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir-data-science&theme=tokyonight&hide_border=true" width="65%"/>
-</p>
-
 <br/>
 
 ## 🔥 Contribution Activity
